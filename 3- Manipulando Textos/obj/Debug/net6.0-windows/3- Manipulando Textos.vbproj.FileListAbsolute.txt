@@ -1,0 +1,17 @@
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\bin\Debug\net6.0-windows\3- Manipulando Textos.exe
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\bin\Debug\net6.0-windows\3- Manipulando Textos.deps.json
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\bin\Debug\net6.0-windows\3- Manipulando Textos.runtimeconfig.json
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\bin\Debug\net6.0-windows\3- Manipulando Textos.dll
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\bin\Debug\net6.0-windows\3- Manipulando Textos.pdb
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\obj\Debug\net6.0-windows\3- Manipulando Textos.vbproj.AssemblyReference.cache
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\obj\Debug\net6.0-windows\_3__Manipulando_Textos.Form1.resources
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\obj\Debug\net6.0-windows\3- Manipulando Textos.vbproj.GenerateResource.cache
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\obj\Debug\net6.0-windows\3- Manipulando Textos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\obj\Debug\net6.0-windows\3- Manipulando Textos.AssemblyInfoInputs.cache
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\obj\Debug\net6.0-windows\3- Manipulando Textos.AssemblyInfo.vb
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\obj\Debug\net6.0-windows\3- Manipulando Textos.vbproj.CoreCompileInputs.cache
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\obj\Debug\net6.0-windows\3- Manipulando Textos.dll
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\obj\Debug\net6.0-windows\refint\3- Manipulando Textos.dll
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\obj\Debug\net6.0-windows\3- Manipulando Textos.pdb
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\obj\Debug\net6.0-windows\3- Manipulando Textos.genruntimeconfig.cache
+C:\Users\Nátalle\source\repos\3- Manipulando Textos\obj\Debug\net6.0-windows\ref\3- Manipulando Textos.dll
